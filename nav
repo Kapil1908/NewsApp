@@ -1,0 +1,7 @@
+<Route exact path = "/buisness">buisness<News pageSize = {5} country = "in" category = "buisness"/> </Route>
+<Route exact path = "/entertainment">entertainment <News pageSize = {5} country = "in" category = "entertainment"/> </Route>
+<Route exact path = "/general">general<News pageSize = {5} country = "in" category = "general"/> </Route>
+<Route exact path = "/health">health <News pageSize = {5} country = "in" category = "health"/> </Route>
+<Route exact path = "/science">science <News pageSize = {5} country = "in" category = "science"/> </Route>
+<Route exact path = "/sport">sport <News pageSize = {5} country = "in" category = "sport"/> </Route>
+<Route exact path = "/technology">technology<News pageSize = {5} country = "in" category = "technology"/> </Route>
